@@ -19,7 +19,7 @@ output_string += Utility.format('%s: Fun: %d/25 Creativity: %d/20 Aethetics: %d/
 judge = 'erik';
 output_string += Utility.format('%s: Fun: %d/25 Creativity: %d/20 Aethetics: %d/5 Total: %d/50\n', judge, json_object.entries[process.argv[2]].score[judge].fun, json_object.entries[process.argv[2]].score[judge].creativity, json_object.entries[process.argv[2]].score[judge].aesthetics, json_object.entries[process.argv[2]].score[judge].total);
 if(json_object.entries[process.argv[2]].score.penalties != null){
-	output_string += Utility.format('Penalty: %d %s\n', json_object.entries[process.argv[2]].score.penalties.effect, json_object.entries[process.argv[2]].score.penalties.reason);
+	output_string += Utility.format('Penalty: %d %s\n\n', json_object.entries[process.argv[2]].score.penalties.effect, json_object.entries[process.argv[2]].score.penalties.reason);
 }
-output_string += Utility.format('Helpful and informative links:\nRules and submissions thread: %s\nDiscussion thread: %s\nResults thread: %s\nOfficial spreadsheet: %s\nGitHub repository containing my data and scripts: %s\nAs always, please leave a reply if you noticed something\'s incorrect.', json_object.contest_info.rules_submissions, json_object.contest_info.discussion, json_object.contest_info.results, json_object.contest_info.official_spreadsheet, json_object.contest_info.data_repository);
+output_string += Utility.format('Helpful and informative links:\nRules and submissions thread: %s\nDiscussion thread: %s\nResults thread: %s\nOfficial spreadsheet: %s\nGitHub repository containing my data and scripts: %s\n\nAs always, please leave a reply if you noticed something\'s incorrect.', json_object.contest_info.rules_submissions, json_object.contest_info.discussion, json_object.contest_info.results, json_object.contest_info.official_spreadsheet, json_object.contest_info.data_repository);
 console.log(output_string);
