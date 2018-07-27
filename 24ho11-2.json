@@ -1495,10 +1495,10 @@
 				"rank": 21,
 				"author": "Ruberjig",
 				"number": 14,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "LOOK, WATCH, MOVE!", 
+				"patch_name": "24ho11.bps",
+				"submission_message": "hhhhhholy crap three hours please tell me this works",
+				"submission_time": "2018-06-17T09:16:02"
 			},
 			"score": {
 				"total": 26.75,
@@ -1529,8 +1529,8 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=jHYxYKy71Bo",
+				"keywords": "interrupted,BY TIME ITSELF,honestly though,them levels be alright",
 				"deaths": [],
 				"themes": [],
 				"custom": {
@@ -1559,7 +1559,7 @@
 					"secret_exit": null,
 					"yoshi": null
 				},
-				"start_time": null,
+				"start_time": "7:11",
 				"clear_time": null
 			}
 		},
@@ -2084,10 +2084,10 @@
 				"rank": 29,
 				"author": "Manofer",
 				"number": 7,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "Air Tank Ship",
+				"patch_name": "24hoSMW.bps",
+				"submission_message": "Air Tank Ship",
+				"submission_time": "2018-06-17T03:58:15"
 			},
 			"score": {
 				"total": 18,
@@ -2118,38 +2118,42 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=jHYxYKy71Bo",
+				"keywords": "interrupted,BY TIME ITSELF,honestly though,them levels be alright",
 				"deaths": [],
-				"themes": [],
+				"themes": [
+					"tank",
+					"ship",
+					"sky"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": true,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
+					"dragon_coins": true,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": false,
 					"multiple_checkpoints": null,
 					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "4:02",
+				"clear_time": "6:07"
 			}
 		},
 		{
@@ -2157,10 +2161,10 @@
 				"rank": 30,
 				"author": "Green Jerry",
 				"number": 1,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "BOMB DESERT",
+				"patch_name": "24hoSMW11+Entry.bps",
+				"submission_message": "My entry",
+				"submission_time": "2018-06-16T22:49:30"
 			},
 			"score": {
 				"total": 15.75,
@@ -2191,38 +2195,42 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
-				"deaths": [],
-				"themes": [],
+				"url": "https://www.youtube.com/watch?v=jHYxYKy71Bo",
+				"keywords": "interrupted,BY TIME ITSELF,honestly though,them levels be alright",
+				"deaths": [
+					"1:17"
+				],
+				"themes": [
+					"desert"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
+					"dragon_coins": false,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": true,
 					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null
+					"quick_restart": false,
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "0:29",
+				"clear_time": "3:06"
 			}
 		},
 		{
