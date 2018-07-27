@@ -1531,36 +1531,45 @@
 			"video": {
 				"url": "https://www.youtube.com/watch?v=jHYxYKy71Bo",
 				"keywords": "interrupted,BY TIME ITSELF,honestly though,them levels be alright",
-				"deaths": [],
-				"themes": [],
+				"deaths": [
+					"10:49",
+					"11:10",
+					"13:46",
+					"14:05",
+					"14:24",
+					"15:30"
+					],
+				"themes": [
+					"highland"
+					],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": false,
+					"hud": true,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null
+					"dragon_coins": true,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": true,
+					"text": true,
+					"multiple_checkpoints": false,
+					"quick_restart": false,
+					"life_farm": false,
+					"memes": true,
+					"secret_exit": true,
+					"yoshi": false
 				},
 				"start_time": "7:11",
-				"clear_time": null
+				"clear_time": ["12:00", "15:52"]
 			}
 		},
 		{
