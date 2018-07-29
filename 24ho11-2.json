@@ -498,37 +498,47 @@
 			"video": {
 				"url": "https://www.youtube.com/watch?v=TqcA_suCBrs",
 				"keywords": "welcome to the internet,if you play,your cards right,words,loose all meaning",
-				"deaths": [],
-				"themes": [],
+				"deaths": [
+					"2:53",
+					"3:04",
+					"3:16",
+					"5:01",
+					"6:22",
+					"6:37"
+				],
+				"themes": [
+					"castle",
+					"sky"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"dragon_coins": true,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": false,
+					"multiple_checkpoints": false,
+					"quick_restart": false,
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
 				"start_time": "0:27",
-				"clear_time": null
+				"clear_time": "8:18"
 			}
 		},
 		{
@@ -537,7 +547,7 @@
 				"author": "Ryaa",
 				"number": 24,
 				"level_name": "Prism Passage",
-				"patch_name": null,
+				"patch_name": "Prism_Passage.bps",
 				"submission_message": "am is done",
 				"submission_time": "2018-06-17T16:11:49"
 			},
@@ -573,36 +583,40 @@
 				"url": "https://www.youtube.com/watch?v=TqcA_suCBrs",
 				"keywords": "welcome to the internet,if you play,your cards right,words,loose all meaning",
 				"deaths": [],
-				"themes": [],
+				"themes": [
+					"sky",
+					"castle",
+					"night"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": true,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
+					"dragon_coins": true,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": true,
+					"multiple_checkpoints": false,
 					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
 				"start_time": "9:24",
-				"clear_time": null
+				"clear_time": "12:15"
 			}
 		},
 		{
@@ -1120,37 +1134,47 @@
 			"video": {
 				"url": "https://www.youtube.com/watch?v=TqcA_suCBrs",
 				"keywords": "welcome to the internet,if you play,your cards right,words,loose all meaning",
-				"deaths": [],
-				"themes": [],
+				"deaths": [
+					"15:23",
+					"16:12",
+					"17:05",
+					"17:14"
+				],
+				"themes": [
+					"night",
+					"fantasy",
+					"surreal",
+					"grassland"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": false
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"dragon_coins": false,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": false,
+					"multiple_checkpoints": false,
+					"quick_restart": false,
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
 				"start_time": "13:18",
-				"clear_time": null
+				"clear_time": "18:39"
 			}
 		},
 		{
