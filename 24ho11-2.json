@@ -297,10 +297,10 @@
 				"rank": 5,
 				"author": "FrozenQuills",
 				"number": 5,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "good night mario",
+				"patch_name": "24h_frozenquils2.bps",
+				"submission_message": "this is my entry",
+				"submission_time": "2018-06-17T03:13:44"
 			},
 			"score": {
 				"total": 41.25,
@@ -331,38 +331,49 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
-				"deaths": [],
-				"themes": [],
+				"url": "https://www.youtube.com/watch?v=49WWE535zf4",
+				"keywords": "even more so,than cults,and ghosts",
+				"deaths": [
+					"2:09",
+					"2:39",
+					"3:05",
+					"3:21",
+					"3:50",
+					"3:53"
+				],
+				"themes": [
+					"night",
+					"sky"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": false,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": false
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null
+					"dragon_coins": true,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"auto_scroller": true,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": false,
+					"multiple_checkpoints": false,
+					"quick_restart": false,
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "0:27",
+				"clear_time": "4:58"
 			}
 		},
 		{
@@ -370,10 +381,10 @@
 				"rank": 6,
 				"author": "E-man38",
 				"number": 26,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "Somnolent Midnight",
+				"patch_name": "24HoSMW11.bps",
+				"submission_message": ":booThink:",
+				"submission_time": "2018-06-17T17:21:47"
 			},
 			"score": {
 				"total": 41,
@@ -404,38 +415,41 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=49WWE535zf4",
+				"keywords": "even more so,than cults,and ghosts",
 				"deaths": [],
-				"themes": [],
+				"themes": [
+					"night",
+					"grassland"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": true,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": true,
+					"soundtrack": true,
+					"overworld": false
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
+					"dragon_coins": true,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": true,
 					"multiple_checkpoints": null,
 					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "5:57",
+				"clear_time": "8:18"
 			}
 		},
 		{
@@ -1422,10 +1436,10 @@
 				"rank": 20,
 				"author": "LucasRCD",
 				"number": 33,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "CULT OF THE DAM",
+				"patch_name": "confoundthosemagikoopas.bps",
+				"submission_message": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (entry)",
+				"submission_time": "2018-06-17T18:30:46"
 			},
 			"score": {
 				"total": 27.25,
@@ -1456,8 +1470,8 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=49WWE535zf4",
+				"keywords": "even more so,than cults,and ghosts",
 				"deaths": [],
 				"themes": [],
 				"custom": {
@@ -1486,7 +1500,7 @@
 					"secret_exit": null,
 					"yoshi": null
 				},
-				"start_time": null,
+				"start_time": "9:22",
 				"clear_time": null
 			}
 		},
