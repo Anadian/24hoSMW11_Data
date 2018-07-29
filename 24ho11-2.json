@@ -462,10 +462,10 @@
 				"rank": 7,
 				"author": "Centipede",
 				"number": 29,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "Skyscraping Strghld",
+				"patch_name": "Skyscraping+Stronghold.bps",
+				"submission_message": "Skyscraping Stronghold",
+				"submission_time": "2018-06-17T18:20:54"
 			},
 			"score": {
 				"total": 37.25,
@@ -496,8 +496,8 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=TqcA_suCBrs",
+				"keywords": "welcome to the internet,if you play,your cards right,words,loose all meaning",
 				"deaths": [],
 				"themes": [],
 				"custom": {
@@ -527,7 +527,7 @@
 					"yoshi": null,
 					"auto_scroller": null
 				},
-				"start_time": null,
+				"start_time": "0:27",
 				"clear_time": null
 			}
 		},
@@ -536,10 +536,10 @@
 				"rank": 8,
 				"author": "Ryaa",
 				"number": 24,
-				"level_name": null,
+				"level_name": "Prism Passage",
 				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"submission_message": "am is done",
+				"submission_time": "2018-06-17T16:11:49"
 			},
 			"score": {
 				"total": 37,
@@ -570,8 +570,8 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=TqcA_suCBrs",
+				"keywords": "welcome to the internet,if you play,your cards right,words,loose all meaning",
 				"deaths": [],
 				"themes": [],
 				"custom": {
@@ -601,7 +601,7 @@
 					"yoshi": null,
 					"auto_scroller": null
 				},
-				"start_time": null,
+				"start_time": "9:24",
 				"clear_time": null
 			}
 		},
@@ -1084,10 +1084,10 @@
 				"rank": 15,
 				"author": "Miku",
 				"number": 21,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "I should sleep",
+				"patch_name": "sleep.bps",
+				"submission_message": "I am going to sleep now",
+				"submission_time": "2018-06-17T15:29:54"
 			},
 			"score": {
 				"total": 31,
@@ -1118,8 +1118,8 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=TqcA_suCBrs",
+				"keywords": "welcome to the internet,if you play,your cards right,words,loose all meaning",
 				"deaths": [],
 				"themes": [],
 				"custom": {
@@ -1149,7 +1149,7 @@
 					"yoshi": null,
 					"auto_scroller": null
 				},
-				"start_time": null,
+				"start_time": "13:18",
 				"clear_time": null
 			}
 		},
