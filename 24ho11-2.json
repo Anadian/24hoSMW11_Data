@@ -772,10 +772,10 @@
 				"rank": 11,
 				"author": "Sancles",
 				"number": 4,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "MAGICAL MACHINERY CONVENTION",
+				"patch_name": "Magical_Machinery_Convention.bps",
+				"submission_message": "Here's my entry",
+				"submission_time": "2018-06-17T02:26:22"
 			},
 			"score": {
 				"total": 34,
@@ -806,39 +806,49 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
-				"deaths": [],
-				"themes": [],
+				"url": "https://www.youtube.com/watch?v=zefVldSMQsg",
+				"keywords": "you got,twenty four hours,to leave write a comment",
+				"deaths": [
+					"1:55",
+					"2:03",
+					"2:14",
+					"3:53",
+					"4:34"
+				],
+				"themes": [
+					"sky",
+					"day",
+					"castle"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"dragon_coins": false,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": true,
+					"multiple_checkpoints": false,
+					"quick_restart": true,
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": true
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "0:30",
+				"clear_time": "6:06"
 			}
 		},
 		{
@@ -1182,10 +1192,10 @@
 				"rank": 16,
 				"author": "Teyla",
 				"number": 17,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "FOREST NIGHT THING",
+				"patch_name": "ForestThing.bps",
+				"submission_message": "I did it",
+				"submission_time": "2018-06-17T11:43:09"
 			},
 			"score": {
 				"total": 30.25,
@@ -1247,7 +1257,7 @@
 					"yoshi": null,
 					"auto_scroller": null
 				},
-				"start_time": null,
+				"start_time": "10:10",
 				"clear_time": null
 			}
 		},
@@ -1404,10 +1414,10 @@
 				"rank": 19,
 				"author": "Mandew",
 				"number": 3,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "good morning mario",
+				"patch_name": "24h_mandew.zip",
+				"submission_message": "this is my entry",
+				"submission_time": "2018-06-17T12:34:50"
 			},
 			"score": {
 				"total": 28,
@@ -1438,39 +1448,44 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=zefVldSMQsg",
+				"keywords": "you got,twenty four hours,to leave write a comment",
 				"deaths": [],
-				"themes": [],
+				"themes": [
+					"lowlands",
+					"grasslands",
+					"water",
+					"abstract"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": false,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": false
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
+					"dragon_coins": false,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": false,
 					"multiple_checkpoints": null,
 					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "6:57",
+				"clear_time": "9:24"
 			}
 		},
 		{
