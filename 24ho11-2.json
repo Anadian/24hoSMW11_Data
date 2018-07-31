@@ -227,10 +227,10 @@
 				"rank": 4,
 				"author": "Super Maks 64",
 				"number": 31,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "Misc. Sprite Castle",
+				"patch_name": "24hoSMW11.bps",
+				"submission_message": "Entry",
+				"submission_time": "2018-06-17T18:26:37"
 			},
 			"score": {
 				"total": 42.75,
@@ -261,39 +261,44 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
-				"deaths": [],
-				"themes": [],
+				"url": "https://www.youtube.com/watch?v=hF9YuCcQuvI",
+				"keywords": "very,different,neighbours,as it almost,always happen",
+				"deaths": [
+					"10:28",
+					"11:42"
+				],
+				"themes": [
+					"castle"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": true,
+					"transition_screen": true,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": true,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
-					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"asm": true,
+					"dragon_coins": false,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": true,
+					"multiple_checkpoints": true,
+					"quick_restart": true,
+					"life_farm": false,
+					"memes": true,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "8:34",
+				"clear_time": "13:17"
 			}
 		},
 		{
@@ -1813,10 +1818,10 @@
 				"rank": 24,
 				"author": "Berk",
 				"number": 30,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "YOSHI'S ISLAND 1",
+				"patch_name": "24hosmw11+Berk.bps",
+				"submission_message": "OH NO",
+				"submission_time": "2018-06-17T18:24:50"
 			},
 			"score": {
 				"total": 23,
@@ -1847,39 +1852,60 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
-				"deaths": [],
-				"themes": [],
+				"url": "https://www.youtube.com/watch?v=hF9YuCcQuvI",
+				"keywords": "very,different,neighbours,as it almost,always happen",
+				"deaths": [
+					"1:06",
+					"1:54",
+					"2:08",
+					"2:21",
+					"2:23",
+					"2:48",
+					"3:06",
+					"3:56",
+					"4:14",
+					"4:20",
+					"4:24",
+					"5:30",
+					"5:52",
+					"6:42",
+					"6:45",
+					"6:47"
+				],
+				"themes": [
+					"underwater",
+					"lowlands"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": false,
+					"tiles": false,
+					"hud": false,
+					"soundtrack": false,
+					"overworld": false
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"dragon_coins": false,
+					"athletic_course": true,
+					"puzzles": true,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": false,
+					"multiple_checkpoints": false,
+					"quick_restart": false,
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false,
+					"swimming": true
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "0:28",
+				"clear_time": "7:49"
 			}
 		},
 		{
