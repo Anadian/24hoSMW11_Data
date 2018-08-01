@@ -2032,7 +2032,9 @@
 			"video": {
 				"url": "https://www.youtube.com/watch?v=dVKWr0KLApQ",
 				"keywords": "just,with some,extra time,spent,between each level",
-				"deaths": [],
+				"deaths": [
+					"10:26"
+				],
 				"themes": [
 					"cave",
 					"uunderground"
@@ -2048,24 +2050,24 @@
 					"overworld": true
 				},
 				"features": {
-					"asm": null,
-					"dragon_coins": null,
+					"asm": true,
+					"dragon_coins": true,
 					"athletic_course": true,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
 					"text": true,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
+					"multiple_checkpoints": false,
+					"quick_restart": false,
+					"life_farm": false,
 					"memes": true,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
 				"start_time": "9:02",
-				"clear_time": null
+				"clear_time": "11:49"
 			}
 		},
 		{
