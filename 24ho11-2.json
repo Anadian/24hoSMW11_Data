@@ -629,10 +629,10 @@
 				"rank": 9,
 				"author": "Eminus",
 				"number": 18,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "AAAAAAAAAAAAAAAAAAA",
+				"patch_name": "AAA.bps",
+				"submission_message": "AAA",
+				"submission_time": "2018-06-17T12:35:16"
 			},
 			"score": {
 				"total": 36,
@@ -663,8 +663,8 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=yRZGRxpCxmY",
+				"keywords": "these titles,in this order,tell a story",
 				"deaths": [],
 				"themes": [],
 				"custom": {
@@ -694,7 +694,7 @@
 					"yoshi": null,
 					"auto_scroller": null
 				},
-				"start_time": null,
+				"start_time": "8:32",
 				"clear_time": null
 			}
 		},
@@ -969,10 +969,10 @@
 				"rank": 13,
 				"author": "ft029",
 				"number": 11,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "He has the munchies",
+				"patch_name": "setfive.bps",
+				"submission_message": "muncher molotov level",
+				"submission_time": "2018-06-17T06:44:22"
 			},
 			"score": {
 				"total": 32.5,
@@ -1003,8 +1003,8 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=yRZGRxpCxmY",
+				"keywords": "these titles,in this order,tell a story",
 				"deaths": [],
 				"themes": [],
 				"custom": {
@@ -1034,7 +1034,7 @@
 					"yoshi": null,
 					"auto_scroller": null
 				},
-				"start_time": null,
+				"start_time": "0:56",
 				"clear_time": null
 			}
 		},
@@ -1043,10 +1043,10 @@
 				"rank": 14,
 				"author": "chineesmw",
 				"number": 19,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "GHASTLY LULLABY",
+				"patch_name": "ghastly_lullaby.bps",
+				"submission_message": "Ghastly Lullaby",
+				"submission_time": "2018-06-17T14:24:21"
 			},
 			"score": {
 				"total": 32,
@@ -1077,8 +1077,8 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=yRZGRxpCxmY",
+				"keywords": "these titles,in this order,tell a story",
 				"deaths": [],
 				"themes": [],
 				"custom": {
@@ -1108,7 +1108,7 @@
 					"yoshi": null,
 					"auto_scroller": null
 				},
-				"start_time": null,
+				"start_time": "11:47",
 				"clear_time": null
 			}
 		},
