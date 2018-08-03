@@ -1981,37 +1981,54 @@
 			"video": {
 				"url": "https://www.youtube.com/watch?v=RgnR3bTJxpg",
 				"keywords": "I've been,having,issues,sleeping,and having,a lot of stress,lets hope,this helps",
-				"deaths": [],
-				"themes": [],
+				"deaths": [
+					"2:25",
+					"2:34",
+					"2:35",
+					"7:14",
+					"9:23",
+					"9:47",
+					"9:48",
+					"9:50",
+					"9:51",
+					"9:55",
+					"10:00"
+				],
+				"themes": [
+					"forest",
+					"night",
+					"ghost",
+					"mansion"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
+					"title_screen": true,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
 					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"hud": true,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
-					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"asm": true,
+					"dragon_coins": false,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": true,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": true,
+					"multiple_checkpoints": true,
+					"quick_restart": true,
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
 				"start_time": "0:48",
-				"clear_time": null
+				"clear_time": "10:30"
 			}
 		},
 		{
@@ -2211,36 +2228,39 @@
 				"url": "https://www.youtube.com/watch?v=RgnR3bTJxpg",
 				"keywords": "I've been,having,issues,sleeping,and having,a lot of stress,lets hope,this helps",
 				"deaths": [],
-				"themes": [],
+				"themes": [
+					"space",
+					"station"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": false
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
+					"dragon_coins": true,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": false,
+					"multiple_checkpoints": false,
 					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
 				"start_time": "11:36",
-				"clear_time": null
+				"clear_time": "15:03"
 			}
 		},
 		{
