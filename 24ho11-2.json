@@ -1945,10 +1945,10 @@
 				"rank": 25,
 				"author": "Kazkek",
 				"number": 25,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "24hoSMW",
+				"patch_name": "24hoSMW11.bps",
+				"submission_message": "so tired. here is my submission",
+				"submission_time": "2018-06-17T16:59:21"
 			},
 			"score": {
 				"total": 22.25,
@@ -1979,8 +1979,8 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=RgnR3bTJxpg",
+				"keywords": "I've been,having,issues,sleeping,and having,a lot of stress,lets hope,this helps",
 				"deaths": [],
 				"themes": [],
 				"custom": {
@@ -2010,7 +2010,7 @@
 					"yoshi": null,
 					"auto_scroller": null
 				},
-				"start_time": null,
+				"start_time": "0:48",
 				"clear_time": null
 			}
 		},
@@ -2174,10 +2174,10 @@
 				"rank": 28,
 				"author": "Caracc",
 				"number": 9,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "SATELLITE SAGA",
+				"patch_name": "satellite-saga.bps",
+				"submission_message": "These new tools are awesome",
+				"submission_time": "2018-06-17T05:43:53"
 			},
 			"score": {
 				"total": 19,
@@ -2208,8 +2208,8 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=RgnR3bTJxpg",
+				"keywords": "I've been,having,issues,sleeping,and having,a lot of stress,lets hope,this helps",
 				"deaths": [],
 				"themes": [],
 				"custom": {
@@ -2239,7 +2239,7 @@
 					"yoshi": null,
 					"auto_scroller": null
 				},
-				"start_time": null,
+				"start_time": "11:36",
 				"clear_time": null
 			}
 		},
