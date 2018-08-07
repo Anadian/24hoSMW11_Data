@@ -1303,10 +1303,10 @@
 				"rank": 17,
 				"author": "toad64",
 				"number": 13,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "Cloudy Treetops",
+				"patch_name": "24HLDC11.bps",
+				"submission_message": "Cloudy Treetops",
+				"submission_time": "2018-06-17T08:49:13"
 			},
 			"score": {
 				"total": 29.5,
@@ -1337,39 +1337,41 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=KQgSlIWNiTE",
+				"keywords": "thing is,because of,recent development,I can only,play up to,world 2,of each hack,but not the last level of it either",
 				"deaths": [],
-				"themes": [],
+				"themes": [
+					"tree"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": true,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
+					"dragon_coins": true,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": false,
 					"multiple_checkpoints": null,
 					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "5:29",
+				"clear_time": "7:50"
 			}
 		},
 		{
@@ -1738,37 +1740,48 @@
 			"video": {
 				"url": "https://www.youtube.com/watch?v=KQgSlIWNiTE",
 				"keywords": "thing is,because of,recent development,I can only,play up to,world 2,of each hack,but not the last level of it either",
-				"deaths": [],
-				"themes": [],
+				"deaths": [
+					"2:10",
+					"2:18",
+					"2:27",
+					"2:30",
+					"2:52",
+					"3:21",
+					"3:26"
+				],
+				"themes": [
+					"grasslands",
+					"castle"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": true,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"dragon_coins": false,
+					"athletic_course": true,
+					"puzzles": true,
+					"boss_fights": false,
+					"altered_game_states": true,
+					"gimmicks": false,
+					"text": true,
+					"multiple_checkpoints": true,
+					"quick_restart": true,
+					"life_farm": false,
+					"memes": true,
+					"secret_exit": false,
+					"yoshi": true,
+					"auto_scroller": false
 				},
 				"start_time": "0:38",
-				"clear_time": null
+				"clear_time": "4:35"
 			}
 		},
 		{
@@ -1776,10 +1789,10 @@
 				"rank": 23,
 				"author": "yoshi9429",
 				"number": 10,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "Ghost in Forest",
+				"patch_name": "24hoSMW_GiF.bps",
+				"submission_message": "Ghost in Forest",
+				"submission_time": "2018-06-17T05:45:59"
 			},
 			"score": {
 				"total": 24,
@@ -1810,39 +1823,42 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=KQgSlIWNiTE",
+				"keywords": "thing is,because of,recent development,I can only,play up to,world 2,of each hack,but not the last level of it either",
 				"deaths": [],
-				"themes": [],
+				"themes": [
+					"forest",
+					"ghost"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
+					"dragon_coins": true,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": true,
 					"multiple_checkpoints": null,
 					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "9:00",
+				"clear_time": "11:56"
 			}
 		},
 		{
