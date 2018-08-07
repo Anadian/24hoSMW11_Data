@@ -1699,10 +1699,10 @@
 				"rank": 22,
 				"author": "GlitchMr",
 				"number": 2,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "SUPER MARIO YOSHI RACING -2000- EXTREME AWESOME",
+				"patch_name": "smyr2000eaupdatedyetagain.bps",
+				"submission_message": "SUPER MARIO YOSHI RACING -2000- EXTREME AWESOME, UPDATED YET AGAIN, with feedback from YUMP team",
+				"submission_time": "2018-06-16T23:52:43"
 			},
 			"score": {
 				"total": 26.5,
@@ -1736,8 +1736,8 @@
 				}
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
+				"url": "https://www.youtube.com/watch?v=KQgSlIWNiTE",
+				"keywords": "thing is,because of,recent development,I can only,play up to,world 2,of each hack,but not the last level of it either",
 				"deaths": [],
 				"themes": [],
 				"custom": {
@@ -1767,7 +1767,7 @@
 					"yoshi": null,
 					"auto_scroller": null
 				},
-				"start_time": null,
+				"start_time": "0:38",
 				"clear_time": null
 			}
 		},
