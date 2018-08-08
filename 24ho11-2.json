@@ -153,10 +153,10 @@
 				"rank": 3,
 				"author": "snoruntpyro",
 				"number": 8,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "munt crunge",
+				"patch_name": "snoruntpyro+24hsmw11.bps",
+				"submission_message": "Im makeing under tale 2",
+				"submission_time": "2018-06-17T04:54:32"
 			},
 			"score": {
 				"total": 43.25,
@@ -187,39 +187,44 @@
 				"penalties": null
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
-				"deaths": [],
-				"themes": [],
+				"url": "https://www.youtube.com/watch?v=X1ij0h1C8HE",
+				"keywords": "I like how,the top three,is basically,gonna be like,here are these,assets,used at their best",
+				"deaths": [
+					"0:18",
+					"2:15"
+				],
+				"themes": [
+					"sky"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": true,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": false,
+					"hud": false,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
-					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"asm": false,
+					"dragon_coins": false,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": true,
+					"multiple_checkpoints": false,
+					"quick_restart": false,
+					"life_farm": false,
+					"memes": true,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": true
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "0:46",
+				"clear_time": "3:54"
 			}
 		},
 		{
