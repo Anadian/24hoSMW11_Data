@@ -85,10 +85,10 @@
 				"rank": 2,
 				"author": "MiracleWater",
 				"number": 16,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "Spinal Tap",
+				"patch_name": "24ho2108.zip",
+				"submission_message": "Spinal Tap",
+				"submission_time": "2018-06-17T11:27:47"
 			},
 			"score": {
 				"total": 43.75,
@@ -125,39 +125,59 @@
 				}
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
-				"deaths": [],
-				"themes": [],
+				"url": "https://www.youtube.com/watch?v=ZFBzagbFSG8",
+				"keywords": "echos,of a western,long lost",
+				"deaths": [
+					"0:33",
+					"1:12",
+					"1:41",
+					"1:44",
+					"1:48",
+					"1:51",
+					"1:59",
+					"2:04",
+					"2:06",
+					"2:48",
+					"2:58",
+					"4:19",
+					"4:50",
+					"5:08",
+					"5:14",
+					"5:18"
+				],
+				"themes": [
+					"mountains",
+					"west"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": true,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"dragon_coins": false,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": true,
+					"gimmicks": false,
+					"text": false,
+					"multiple_checkpoints": false,
+					"quick_restart": false,
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "0:26",
+				"clear_time": "6:33"
 			}
 		},
 		{
