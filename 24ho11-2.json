@@ -5,10 +5,10 @@
 				"rank": 1,
 				"author": "Lazy",
 				"number": 27,
-				"level_name": null,
-				"patch_name": null,
-				"submission_message": null,
-				"submission_time": null
+				"level_name": "windy hot breakfast",
+				"patch_name": "24hourslazy.bps",
+				"submission_message": "entry",
+				"submission_time": "2018-06-17T17:27:06"
 			},
 			"score": {
 				"total": 44.75,
@@ -45,39 +45,45 @@
 				}
 			},
 			"video": {
-				"url": null,
-				"keywords": null,
-				"deaths": [],
-				"themes": [],
+				"url": "https://www.youtube.com/watch?v=sOl76KcLIiU",
+				"keywords": "the gimmick,is that everyone,uses the same box,basically",
+				"deaths": [
+					"1:07",
+					"2:31"
+				],
+				"themes": [
+					"sky",
+					"cloud"
+				],
 				"custom": {
-					"title_screen": null,
-					"transition_screen": null,
-					"player_sprite": null,
-					"enemies": null,
-					"tiles": null,
-					"hud": null,
-					"soundtrack": null,
-					"overworld": null
+					"title_screen": false,
+					"transition_screen": false,
+					"player_sprite": false,
+					"enemies": true,
+					"tiles": true,
+					"hud": true,
+					"soundtrack": true,
+					"overworld": true
 				},
 				"features": {
 					"asm": null,
-					"dragon_coins": null,
-					"athletic_course": null,
-					"puzzles": null,
-					"boss_fights": null,
-					"altered_game_states": null,
-					"gimmicks": null,
-					"text": null,
-					"multiple_checkpoints": null,
-					"quick_restart": null,
-					"life_farm": null,
-					"memes": null,
-					"secret_exit": null,
-					"yoshi": null,
-					"auto_scroller": null
+					"dragon_coins": false,
+					"athletic_course": true,
+					"puzzles": false,
+					"boss_fights": false,
+					"altered_game_states": false,
+					"gimmicks": false,
+					"text": true,
+					"multiple_checkpoints": false,
+					"quick_restart": false,
+					"life_farm": false,
+					"memes": false,
+					"secret_exit": false,
+					"yoshi": false,
+					"auto_scroller": false
 				},
-				"start_time": null,
-				"clear_time": null
+				"start_time": "0:34",
+				"clear_time": "3:47"
 			}
 		},
 		{
